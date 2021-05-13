@@ -1,0 +1,2595 @@
+{
+    "hotelData": {
+        "header": "613 W Chapel Hill St, Durham, NC 27701, USA",
+            "query": {
+            "destination": {
+                "id": "1478427",
+                    "value": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                        "resolvedLocation": "GEO_LOCATION:613 W Chapel Hill St, Durham, NC 27701, USA|35.9965705871582|-78.91143035888672:GEOCODE:UNKNOWN"
+            }
+        },
+        "searchResults": {
+            "totalCount": 88,
+            "results": [
+                {
+                    "id": 245714,
+                    "name": "Arrowhead Inn",
+                    "starRating": 4.5,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "106 Mason Road",
+                        "extendedAddress": "",
+                        "locality": "Durham",
+                        "postalCode": "27712",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 5,
+                        "rating": "5.0",
+                        "total": 19,
+                        "scale": 5,
+                        "badge": "exceptional",
+                        "badgeText": "Exceptional"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "8.4 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "8.4 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$202",
+                            "exactCurrent": 202.35,
+                            "old": "$213",
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": false,
+                            "paymentPreference": true,
+                            "noCCRequired": false
+                        },
+                        "type": "Dual"
+                    },
+                    "neighbourhood": "Durham",
+                    "deals": {
+                        "secretPrice": {
+                            "dealText": "Save more with Secret Prices"
+                        },
+                        "priceReasoning": "DRR-443"
+                    },
+                    "messaging": {
+                        "scarcity": "1 left on our app"
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                    "coordinate": {
+                        "lat": 36.117481,
+                        "lon": -78.903614
+                    },
+                    "roomsLeft": 1,
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 1542288,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/B7j_re5kmwSj16QGF-2Lu8MaHKQ=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/2000000/1550000/1542300/1542288/28cd1aa2_z.jpg"
+                    }
+                },
+                {
+                    "id": 134304,
+                    "name": "The Siena Hotel, Autograph Collection",
+                    "starRating": 4,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "1505 E Franklin St",
+                        "extendedAddress": "",
+                        "locality": "Chapel Hill",
+                        "postalCode": "27514",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.8,
+                        "rating": "4.8",
+                        "total": 140,
+                        "scale": 5,
+                        "badge": "exceptional",
+                        "badgeText": "Exceptional"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "8.2 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "8.7 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$137",
+                            "exactCurrent": 136.74,
+                            "old": "$159",
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": true,
+                            "paymentPreference": true,
+                            "noCCRequired": false
+                        },
+                        "type": "Dual"
+                    },
+                    "neighbourhood": "Chapel Hill",
+                    "deals": {
+                        "specialDeal": {
+                            "dealText": "Mobile exclusive: save 14%"
+                        },
+                        "priceReasoning": "DRR-444"
+                    },
+                    "messaging": {
+
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|MESOTESTUS|TESCO|showGoldContentDescriptionHCOMUSenUS",
+                    "coordinate": {
+                        "lat": 35.93014,
+                        "lon": -79.03395
+                    },
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 971,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/YbCLF_21N0t6-z-oH2nOsG5DYnc=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/10000/1000/971/1b887ee2_z.jpg"
+                    }
+                },
+                {
+                    "id": 334753,
+                    "name": "Rizzo Center, a Destination by Hyatt Hotel",
+                    "starRating": 4,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "150 DuBose Home Lane",
+                        "extendedAddress": "",
+                        "locality": "Chapel Hill",
+                        "postalCode": "27517",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.8,
+                        "rating": "4.8",
+                        "total": 273,
+                        "scale": 5,
+                        "badge": "exceptional",
+                        "badgeText": "Exceptional"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "7.9 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "8.3 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$83",
+                            "exactCurrent": 83.2,
+                            "old": "$104",
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": true,
+                            "paymentPreference": true,
+                            "noCCRequired": false
+                        },
+                        "type": "Dual"
+                    },
+                    "neighbourhood": "Chapel Hill",
+                    "deals": {
+                        "specialDeal": {
+                            "dealText": "Stay 4 nights and get the 4th night free"
+                        },
+                        "priceReasoning": "DRR-466"
+                    },
+                    "messaging": {
+
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|XMPV2|TESCO",
+                    "coordinate": {
+                        "lat": 35.910382,
+                        "lon": -79.004833
+                    },
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 863791,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/H8hgjbHHz8SpozjCwSWUNsN7kpQ=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/870000/863800/863791/6c5018f6_z.jpg"
+                    }
+                },
+                {
+                    "id": 105860,
+                    "name": "Sheraton Imperial Hotel Raleigh-Durham Airport/RTP",
+                    "starRating": 3.5,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "4700 Emperor Blvd",
+                        "extendedAddress": "",
+                        "locality": "Durham",
+                        "postalCode": "27703",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.2,
+                        "rating": "4.2",
+                        "total": 107,
+                        "scale": 5,
+                        "badge": "very-good",
+                        "badgeText": "Very Good"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "9.2 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "9.0 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$125",
+                            "exactCurrent": 124.95,
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": false,
+                            "paymentPreference": false,
+                            "noCCRequired": false
+                        },
+                        "type": "EC"
+                    },
+                    "neighbourhood": "Durham",
+                    "deals": {
+
+                    },
+                    "messaging": {
+
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|HRW|TESCO",
+                    "coordinate": {
+                        "lat": 35.87686,
+                        "lon": -78.83894
+                    },
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 20832,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/47O3z2CWH0g-9z9FtGt1adrV2Uo=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/30000/20900/20832/934f5ec1_z.jpg"
+                    }
+                },
+                {
+                    "id": 122507,
+                    "name": "DoubleTree Suites by Hilton Raleigh-Durham",
+                    "starRating": 3.5,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "2515 Meridian Pkwy",
+                        "extendedAddress": "",
+                        "locality": "Durham",
+                        "postalCode": "27713",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.4,
+                        "rating": "4.4",
+                        "total": 369,
+                        "scale": 5,
+                        "badge": "fabulous",
+                        "badgeText": "Fabulous"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "6.0 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "5.9 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$86",
+                            "exactCurrent": 85.51,
+                            "old": "$90",
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": true,
+                            "paymentPreference": false,
+                            "noCCRequired": false
+                        },
+                        "type": "EC"
+                    },
+                    "neighbourhood": "Durham",
+                    "deals": {
+
+                    },
+                    "messaging": {
+                        "scarcity": "3 left on our app"
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|TESCO",
+                    "coordinate": {
+                        "lat": 35.91055,
+                        "lon": -78.89729
+                    },
+                    "roomsLeft": 3,
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 13139,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/rGqcJDOxE86p75H6xZe4HeO7fyg=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/20000/13200/13139/f5d8f274_z.jpg"
+                    }
+                },
+                {
+                    "id": 117134,
+                    "name": "Hilton Durham near Duke University",
+                    "starRating": 3.5,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "3800 Hillsborough Rd",
+                        "extendedAddress": "",
+                        "locality": "Durham",
+                        "postalCode": "27705",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.2,
+                        "rating": "4.2",
+                        "total": 586,
+                        "scale": 5,
+                        "badge": "very-good",
+                        "badgeText": "Very Good"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "3.3 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "3.7 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$106",
+                            "exactCurrent": 106.21,
+                            "old": "$113",
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": true,
+                            "paymentPreference": false,
+                            "noCCRequired": false
+                        },
+                        "type": "EC"
+                    },
+                    "neighbourhood": "Durham",
+                    "deals": {
+
+                    },
+                    "messaging": {
+
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|TESCO",
+                    "coordinate": {
+                        "lat": 36.02539,
+                        "lon": -78.95745
+                    },
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 18821,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/JMAAMFwrSe9kyUe9gIjxA4ebp_Y=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/20000/18900/18821/03a7f743_z.jpg"
+                    }
+                },
+                {
+                    "id": 577759456,
+                    "name": "Unscripted Durham",
+                    "starRating": 3.5,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "202 N Corcoran St",
+                        "extendedAddress": "",
+                        "locality": "Durham",
+                        "postalCode": "27701",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.2,
+                        "rating": "4.2",
+                        "total": 453,
+                        "scale": 5,
+                        "badge": "very-good",
+                        "badgeText": "Very Good"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "0.6 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "0.0 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$145",
+                            "exactCurrent": 144.9,
+                            "old": "$161",
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": false,
+                            "paymentPreference": true,
+                            "noCCRequired": false
+                        },
+                        "type": "Dual"
+                    },
+                    "neighbourhood": "Downtown Durham",
+                    "deals": {
+                        "secretPrice": {
+                            "dealText": "Save more with Secret Prices"
+                        },
+                        "priceReasoning": "DRR-443"
+                    },
+                    "messaging": {
+                        "scarcity": "2 left on our app"
+                    },
+                    "badging": {
+                        "hotelBadge": {
+                            "type": "vipBasic",
+                            "label": "VIP"
+                        }
+                    },
+                    "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                    "coordinate": {
+                        "lat": 35.99659,
+                        "lon": -78.90139
+                    },
+                    "roomsLeft": 2,
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 18023733,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/KkQ9wbIIAkCieVsLMVqDjnZFAeg=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/19000000/18030000/18023800/18023733/1aad672e_z.jpg"
+                    }
+                },
+                {
+                    "id": 172717920,
+                    "name": "Oakwood Raleigh Brier Creek",
+                    "starRating": 3.5,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "7920 Oak Estate Street",
+                        "extendedAddress": "",
+                        "locality": "Raleigh",
+                        "postalCode": "27617",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4,
+                        "rating": "4.0",
+                        "total": 49,
+                        "scale": 5,
+                        "badge": "very-good",
+                        "badgeText": "Very Good"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "9.3 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "8.9 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$104",
+                            "exactCurrent": 103.55,
+                            "old": "$109",
+                            "info": "nightly price per unit",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": false,
+                            "paymentPreference": true,
+                            "noCCRequired": false
+                        },
+                        "type": "Dual"
+                    },
+                    "neighbourhood": "Raleigh",
+                    "deals": {
+                        "specialDeal": {
+                            "dealText": "Save 5%"
+                        },
+                        "priceReasoning": "DRR-446"
+                    },
+                    "messaging": {
+
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                    "coordinate": {
+                        "lat": 35.917103,
+                        "lon": -78.776332
+                    },
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 5366185,
+                    "vrBadge": "Apartments",
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/UGGQ35xv2b_Ilj1q9h5tfm_PJTE=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/6000000/5370000/5366200/5366185/9f107e1b_z.jpg"
+                    }
+                },
+                {
+                    "id": 314309,
+                    "name": "Delta Hotels by Marriott Raleigh-Durham at Research Triangle Park",
+                    "starRating": 3.5,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "151 Tatum Drive",
+                        "extendedAddress": "",
+                        "locality": "Durham",
+                        "postalCode": "27703",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 3.8,
+                        "rating": "3.8",
+                        "total": 132,
+                        "scale": 5,
+                        "badge": "good",
+                        "badgeText": "Good"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "8.5 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "8.3 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$123",
+                            "exactCurrent": 123,
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": true,
+                            "paymentPreference": true,
+                            "noCCRequired": false
+                        },
+                        "type": "Dual"
+                    },
+                    "neighbourhood": "Durham",
+                    "deals": {
+
+                    },
+                    "messaging": {
+
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "newhotel|DoubleStamps|increaseNumberOfReviewsRequired|TESCO",
+                    "coordinate": {
+                        "lat": 35.885331,
+                        "lon": -78.845718
+                    },
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 2664006,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/fg5UVMiYCv8bhW3Ruxp1WyQpjRc=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/3000000/2670000/2664100/2664006/b139b165_z.jpg"
+                    }
+                },
+                {
+                    "id": 195782,
+                    "name": "DoubleTree Raleigh Durham Airport at Research Triangle Park",
+                    "starRating": 3.5,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "4810 Page Creek Ln",
+                        "extendedAddress": "",
+                        "locality": "Durham",
+                        "postalCode": "27703",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.5,
+                        "rating": "4.5",
+                        "total": 275,
+                        "scale": 5,
+                        "badge": "superb",
+                        "badgeText": "Superb"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "8.8 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "8.6 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$92",
+                            "exactCurrent": 92.43,
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": false,
+                            "paymentPreference": false,
+                            "noCCRequired": false
+                        },
+                        "type": "EC"
+                    },
+                    "neighbourhood": "Durham",
+                    "deals": {
+
+                    },
+                    "messaging": {
+                        "scarcity": "1 left on our app"
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|TESCO",
+                    "coordinate": {
+                        "lat": 35.88191,
+                        "lon": -78.84258
+                    },
+                    "roomsLeft": 1,
+                    "providerType": "MULTISOURCE",
+                    "supplierHotelId": 22001,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/PltIpTcEVyG8lCnRmnekYeuLViY=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/30000/22100/22001/614738b8_z.jpg"
+                    }
+                },
+                {
+                    "id": 141255,
+                    "name": "Durham Marriott City Center",
+                    "starRating": 3.5,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "201 Foster St",
+                        "extendedAddress": "",
+                        "locality": "Durham",
+                        "postalCode": "27701",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.4,
+                        "rating": "4.4",
+                        "total": 148,
+                        "scale": 5,
+                        "badge": "fabulous",
+                        "badgeText": "Fabulous"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "0.5 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "0.1 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$176",
+                            "exactCurrent": 176.25,
+                            "old": "$235",
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": true,
+                            "paymentPreference": true,
+                            "noCCRequired": false
+                        },
+                        "type": "Dual"
+                    },
+                    "neighbourhood": "Downtown Durham",
+                    "deals": {
+                        "secretPrice": {
+                            "dealText": "Save more with Secret Prices"
+                        },
+                        "priceReasoning": "DRR-443"
+                    },
+                    "messaging": {
+
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|TESCO",
+                    "coordinate": {
+                        "lat": 35.99705,
+                        "lon": -78.90164
+                    },
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 23726,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/u1rLpALGtp5g4OMiduSoVUviDCg=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/30000/23800/23726/452c4e2c_z.jpg"
+                    }
+                },
+                {
+                    "id": 116439,
+                    "name": "Marriott Hotel at Research Triangle Park",
+                    "starRating": 3.5,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "4700 Guardian Dr",
+                        "extendedAddress": "",
+                        "locality": "Durham",
+                        "postalCode": "27703",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.4,
+                        "rating": "4.4",
+                        "total": 166,
+                        "scale": 5,
+                        "badge": "fabulous",
+                        "badgeText": "Fabulous"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "7.9 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "7.7 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$116",
+                            "exactCurrent": 115.83,
+                            "old": "$129",
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": false,
+                            "paymentPreference": false,
+                            "noCCRequired": false
+                        },
+                        "type": "EC"
+                    },
+                    "neighbourhood": "Durham",
+                    "deals": {
+                        "specialDeal": {
+                            "dealText": "Mobile exclusive: save 10%"
+                        },
+                        "priceReasoning": "DRR-444"
+                    },
+                    "messaging": {
+
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|HRW|TESCO|showGoldContentDescriptionHCOMUSenUS",
+                    "coordinate": {
+                        "lat": 35.89393,
+                        "lon": -78.84786
+                    },
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 8125,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/76erQ26zZFmvMJ_PArlz3siYooI=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/10000/8200/8125/580c085b_z.jpg"
+                    }
+                },
+                {
+                    "id": 328403,
+                    "name": "Embassy Suites Raleigh-Durham Airport/Brier Creek",
+                    "starRating": 3.5,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "8001 Arco Corporate Drive",
+                        "extendedAddress": "",
+                        "locality": "Raleigh",
+                        "postalCode": "27617-2010",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.6,
+                        "rating": "4.6",
+                        "total": 318,
+                        "scale": 5,
+                        "badge": "superb",
+                        "badgeText": "Superb"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "9.7 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "9.3 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$145",
+                            "exactCurrent": 144.8,
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": true,
+                            "paymentPreference": true,
+                            "noCCRequired": false
+                        },
+                        "type": "Dual"
+                    },
+                    "neighbourhood": "Raleigh",
+                    "deals": {
+
+                    },
+                    "messaging": {
+
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|TESCO",
+                    "coordinate": {
+                        "lat": 35.907869,
+                        "lon": -78.776409
+                    },
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 2967293,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/nz9LhaI1hnEEuLVXK7pSgiQDOtM=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/3000000/2970000/2967300/2967293/fe79c2ac_z.jpg"
+                    }
+                },
+                {
+                    "id": 512856,
+                    "name": "Residence Inn Raleigh-Durham Airport/Brier Creek",
+                    "starRating": 3.5,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "10600 Little Brier Creek Lane",
+                        "extendedAddress": "",
+                        "locality": "Raleigh",
+                        "postalCode": "27617",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.6,
+                        "rating": "4.6",
+                        "total": 195,
+                        "scale": 5,
+                        "badge": "superb",
+                        "badgeText": "Superb"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "8.7 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "8.3 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$123",
+                            "exactCurrent": 123.25,
+                            "old": "$145",
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": true,
+                            "paymentPreference": true,
+                            "noCCRequired": false
+                        },
+                        "type": "Dual"
+                    },
+                    "neighbourhood": "Raleigh",
+                    "deals": {
+                        "specialDeal": {
+                            "dealText": "Mobile exclusive: save 15%"
+                        },
+                        "priceReasoning": "DRR-444"
+                    },
+                    "messaging": {
+
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|TESCO",
+                    "coordinate": {
+                        "lat": 35.916182,
+                        "lon": -78.791115
+                    },
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 10077030,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/OkM4Ekkk0c6R_3dOkiizq2YHY3E=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/11000000/10080000/10077100/10077030/18a1e845_z.jpg"
+                    }
+                },
+                {
+                    "id": 345352,
+                    "name": "SpringHill Suites by Marriott Durham Chapel Hill",
+                    "starRating": 3,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "5310 Mcfarland Rd",
+                        "extendedAddress": "",
+                        "locality": "Durham",
+                        "postalCode": "27707",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.6,
+                        "rating": "4.6",
+                        "total": 403,
+                        "scale": 5,
+                        "badge": "superb",
+                        "badgeText": "Superb"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "5.5 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "5.9 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$93",
+                            "exactCurrent": 92.65,
+                            "old": "$109",
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": true,
+                            "paymentPreference": true,
+                            "noCCRequired": false
+                        },
+                        "type": "Dual"
+                    },
+                    "neighbourhood": "Durham",
+                    "deals": {
+                        "specialDeal": {
+                            "dealText": "Mobile exclusive: save 15%"
+                        },
+                        "priceReasoning": "DRR-444"
+                    },
+                    "messaging": {
+
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|TESCO",
+                    "coordinate": {
+                        "lat": 35.950793,
+                        "lon": -78.991958
+                    },
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 3525287,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/Y5iy_6uix1oYRTWoSQ8kwWnOXfk=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/4000000/3530000/3525300/3525287/252e5a75_z.jpg"
+                    }
+                },
+                {
+                    "id": 545688,
+                    "name": "Chapel Hill InnTown",
+                    "starRating": 3,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "609 Hillsborough Street",
+                        "extendedAddress": "",
+                        "locality": "Chapel Hill",
+                        "postalCode": "27514",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.2,
+                        "rating": "4.2",
+                        "total": 43,
+                        "scale": 5,
+                        "badge": "very-good",
+                        "badgeText": "Very Good"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "9.3 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "9.8 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$80",
+                            "exactCurrent": 80.1,
+                            "old": "$89",
+                            "info": "nightly price per unit",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": false,
+                            "paymentPreference": false,
+                            "noCCRequired": false
+                        },
+                        "type": "EC"
+                    },
+                    "neighbourhood": "Chapel Hill",
+                    "deals": {
+                        "secretPrice": {
+                            "dealText": "Save more with Secret Prices"
+                        },
+                        "priceReasoning": "DRR-443"
+                    },
+                    "messaging": {
+                        "scarcity": "1 left on our app"
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                    "coordinate": {
+                        "lat": 35.923674,
+                        "lon": -79.051981
+                    },
+                    "roomsLeft": 1,
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 12243976,
+                    "vrBadge": "Condos",
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/aHJhPQ7XOdslsbG5TOC8YfenUBo=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/13000000/12250000/12244000/12243976/67fecb79_z.jpg"
+                    }
+                },
+                {
+                    "id": 191633,
+                    "name": "SpringHill Suites by Marriott Raleigh-Durham Airport/Research Triangle Park",
+                    "starRating": 3,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "920 Slater Rd",
+                        "extendedAddress": "",
+                        "locality": "Durham",
+                        "postalCode": "27703",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.2,
+                        "rating": "4.2",
+                        "total": 704,
+                        "scale": 5,
+                        "badge": "very-good",
+                        "badgeText": "Very Good"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "9.3 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "9.0 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$73",
+                            "exactCurrent": 73.24,
+                            "old": "$77",
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": false,
+                            "paymentPreference": false,
+                            "noCCRequired": false
+                        },
+                        "type": "EC"
+                    },
+                    "neighbourhood": "Durham",
+                    "deals": {
+
+                    },
+                    "messaging": {
+
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|TESCO",
+                    "coordinate": {
+                        "lat": 35.87602,
+                        "lon": -78.83737
+                    },
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 549035,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/b4G37v2Y4uFDWbaDCbEtuSeyn1Q=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/550000/549100/549035/a8594969_z.jpg"
+                    }
+                },
+                {
+                    "id": 264978,
+                    "name": "Staybridge Suites Durham/Chapel Hill, an IHG Hotel",
+                    "starRating": 3,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "3704 Mount Moriah Rd",
+                        "extendedAddress": "",
+                        "locality": "Durham",
+                        "postalCode": "27707",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4,
+                        "rating": "4.0",
+                        "total": 133,
+                        "scale": 5,
+                        "badge": "very-good",
+                        "badgeText": "Very Good"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "5.7 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "6.1 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$77",
+                            "exactCurrent": 76.5,
+                            "info": "nightly price per unit",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": true,
+                            "paymentPreference": true,
+                            "noCCRequired": false
+                        },
+                        "type": "Dual"
+                    },
+                    "neighbourhood": "Durham",
+                    "deals": {
+
+                    },
+                    "messaging": {
+
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|TESCO",
+                    "coordinate": {
+                        "lat": 35.948978,
+                        "lon": -78.994589
+                    },
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 1717470,
+                    "vrBadge": "Condo Hotel",
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/OY_CFePAuTLDpoKvJmvDER9Fr_g=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/2000000/1720000/1717500/1717470/718b3108_z.jpg"
+                    }
+                },
+                {
+                    "id": 342824,
+                    "name": "Aloft Chapel Hill",
+                    "starRating": 3,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "1001 S Hamilton Rd",
+                        "extendedAddress": "",
+                        "locality": "Chapel Hill",
+                        "postalCode": "27517",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.2,
+                        "rating": "4.2",
+                        "total": 238,
+                        "scale": 5,
+                        "badge": "very-good",
+                        "badgeText": "Very Good"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "8.8 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "9.2 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$98",
+                            "exactCurrent": 98.1,
+                            "old": "$109",
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": true,
+                            "paymentPreference": true,
+                            "noCCRequired": false
+                        },
+                        "type": "Dual"
+                    },
+                    "neighbourhood": "Chapel Hill",
+                    "deals": {
+                        "specialDeal": {
+                            "dealText": "Mobile exclusive: save 10%"
+                        },
+                        "priceReasoning": "DRR-444"
+                    },
+                    "messaging": {
+
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|TESCO",
+                    "coordinate": {
+                        "lat": 35.907337,
+                        "lon": -79.023817
+                    },
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 3486607,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/GxDX8SnFWeI3sGvRFHtbPciZgrY=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/4000000/3490000/3486700/3486607/b3ebde87_z.jpg"
+                    }
+                },
+                {
+                    "id": 496055,
+                    "name": "Aloft Durham Downtown",
+                    "starRating": 3,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "345 Blackwell Street",
+                        "extendedAddress": "",
+                        "locality": "Durham",
+                        "postalCode": "27701",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.5,
+                        "rating": "4.5",
+                        "total": 215,
+                        "scale": 5,
+                        "badge": "superb",
+                        "badgeText": "Superb"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "0.5 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "0.2 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$186",
+                            "exactCurrent": 186.15,
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": false,
+                            "paymentPreference": false,
+                            "noCCRequired": false
+                        },
+                        "type": "EC"
+                    },
+                    "neighbourhood": "Downtown Durham",
+                    "deals": {
+
+                    },
+                    "messaging": {
+
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|TESCO",
+                    "coordinate": {
+                        "lat": 35.993363,
+                        "lon": -78.903945
+                    },
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 10088739,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/3L7tjC6r7cb0XDYpzRd3PPB0hyE=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/11000000/10090000/10088800/10088739/7f808fe0_z.jpg"
+                    }
+                },
+                {
+                    "id": 861564000,
+                    "name": "Home2 Suites by Hilton Raleigh Durham Airport RTP",
+                    "starRating": 3,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "1020 Lower Shiloh Way",
+                        "extendedAddress": "",
+                        "locality": "Morrisville",
+                        "postalCode": "27560",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.4,
+                        "rating": "4.4",
+                        "total": 164,
+                        "scale": 5,
+                        "badge": "fabulous",
+                        "badgeText": "Fabulous"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "9.9 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "9.7 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$80",
+                            "exactCurrent": 80.1,
+                            "old": "$89",
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": true,
+                            "paymentPreference": true,
+                            "noCCRequired": false
+                        },
+                        "type": "Dual"
+                    },
+                    "neighbourhood": "Morrisville",
+                    "deals": {
+                        "secretPrice": {
+                            "dealText": "Save more with Secret Prices"
+                        },
+                        "priceReasoning": "DRR-443"
+                    },
+                    "messaging": {
+
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|TESCO",
+                    "coordinate": {
+                        "lat": 35.86393,
+                        "lon": -78.84406
+                    },
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 26892625,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/ZJNSILg6qF59a2H2A8YW13Ia_ZU=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/27000000/26900000/26892700/26892625/f4daa6cb_z.jpg"
+                    }
+                },
+                {
+                    "id": 456509,
+                    "name": "Hyatt Place Durham Southpoint",
+                    "starRating": 3,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "7840 NC 751 Hwy",
+                        "extendedAddress": "",
+                        "locality": "Durham",
+                        "postalCode": "27713",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.5,
+                        "rating": "4.5",
+                        "total": 397,
+                        "scale": 5,
+                        "badge": "superb",
+                        "badgeText": "Superb"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "7.1 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "7.3 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$118",
+                            "exactCurrent": 118,
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": true,
+                            "paymentPreference": false,
+                            "noCCRequired": false
+                        },
+                        "type": "EC"
+                    },
+                    "neighbourhood": "Durham",
+                    "deals": {
+
+                    },
+                    "messaging": {
+
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|MESOTESTUS|TESCO",
+                    "coordinate": {
+                        "lat": 35.90111,
+                        "lon": -78.959707
+                    },
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 7873918,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/AisN9CA7fp9evJdf_5WgSBkVC7U=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/8000000/7880000/7874000/7873918/7269e1c4_z.jpg"
+                    }
+                },
+                {
+                    "id": 535092,
+                    "name": "Aloft Raleigh-Durham Airport Brier Creek",
+                    "starRating": 3,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "10020 Sellona Street",
+                        "extendedAddress": "",
+                        "locality": "Raleigh",
+                        "postalCode": "27617",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.3,
+                        "rating": "4.3",
+                        "total": 457,
+                        "scale": 5,
+                        "badge": "fabulous",
+                        "badgeText": "Fabulous"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "9.0 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "8.7 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$89",
+                            "exactCurrent": 89.1,
+                            "old": "$99",
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": true,
+                            "paymentPreference": true,
+                            "noCCRequired": false
+                        },
+                        "type": "Dual"
+                    },
+                    "neighbourhood": "Raleigh",
+                    "deals": {
+                        "secretPrice": {
+                            "dealText": "Save more with Secret Prices"
+                        },
+                        "priceReasoning": "DRR-443"
+                    },
+                    "messaging": {
+
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|TESCO",
+                    "coordinate": {
+                        "lat": 35.896308,
+                        "lon": -78.807486
+                    },
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 11646532,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/94Way5EgI8UtFR-hycNk8Xo-YVU=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/12000000/11650000/11646600/11646532/73179bb1_z.jpg"
+                    }
+                },
+                {
+                    "id": 129599,
+                    "name": "Hilton Garden Inn Raleigh-Durham/Research Triangle Park",
+                    "starRating": 3,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "4620 S Miami Blvd",
+                        "extendedAddress": "",
+                        "locality": "Durham",
+                        "postalCode": "27703",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.3,
+                        "rating": "4.3",
+                        "total": 378,
+                        "scale": 5,
+                        "badge": "fabulous",
+                        "badgeText": "Fabulous"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "8.0 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "7.7 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$87",
+                            "exactCurrent": 87.2,
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": true,
+                            "paymentPreference": false,
+                            "noCCRequired": false
+                        },
+                        "type": "EC"
+                    },
+                    "neighbourhood": "Durham",
+                    "deals": {
+
+                    },
+                    "messaging": {
+                        "scarcity": "1 left on our app"
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|TESCO",
+                    "coordinate": {
+                        "lat": 35.89356,
+                        "lon": -78.84793
+                    },
+                    "roomsLeft": 1,
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 21230,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/TVRmwhVowTTljDGYuYx3XtiwgME=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/30000/21300/21230/24c0c61c_z.jpg"
+                    }
+                },
+                {
+                    "id": 514881,
+                    "name": "Courtyard Raleigh-Durham Airport/Brier Creek",
+                    "starRating": 3,
+                    "urls": {
+
+                    },
+                    "address": {
+                        "streetAddress": "10600 Little Brier Creek Lane",
+                        "extendedAddress": "",
+                        "locality": "Raleigh",
+                        "postalCode": "27617",
+                        "region": "NC",
+                        "countryName": "United States",
+                        "countryCode": "us",
+                        "obfuscate": false
+                    },
+                    "welcomeRewards": {
+                        "collect": true
+                    },
+                    "guestReviews": {
+                        "unformattedRating": 4.5,
+                        "rating": "4.5",
+                        "total": 357,
+                        "scale": 5,
+                        "badge": "superb",
+                        "badgeText": "Superb"
+                    },
+                    "landmarks": [
+                        {
+                            "label": "613 W Chapel Hill St, Durham, NC 27701, USA",
+                            "distance": "8.7 miles"
+                        },
+                        {
+                            "label": "Durham",
+                            "distance": "8.3 miles"
+                        }
+                    ],
+                    "geoBullets": [
+
+                    ],
+                    "ratePlan": {
+                        "price": {
+                            "current": "$102",
+                            "exactCurrent": 101.64,
+                            "old": "$121",
+                            "info": "nightly price per room",
+                            "additionalInfo": "This is the average nightly price for your dates."
+                        },
+                        "features": {
+                            "freeCancellation": true,
+                            "paymentPreference": true,
+                            "noCCRequired": false
+                        },
+                        "type": "Dual"
+                    },
+                    "neighbourhood": "Raleigh",
+                    "deals": {
+                        "secretPrice": {
+                            "dealText": "Save more with Secret Prices"
+                        },
+                        "priceReasoning": "DRR-445"
+                    },
+                    "messaging": {
+
+                    },
+                    "badging": {
+
+                    },
+                    "pimmsAttributes": "DoubleStamps|MESOTESTUS|TESCO",
+                    "coordinate": {
+                        "lat": 35.916122,
+                        "lon": -78.791058
+                    },
+                    "providerType": "LOCAL",
+                    "supplierHotelId": 10360583,
+                    "isAlternative": false,
+                    "optimizedThumbUrls": {
+                        "srpDesktop": "https://thumbnails.trvl-media.com/jUW3JxJ1YtuqqVT9NcCWYREvKZc=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/11000000/10370000/10360600/10360583/a576c059_z.jpg"
+                    }
+                }
+            ],
+                    "pagination": {
+                "currentPage": 1,
+                    "pageGroup": "EXPEDIA_IN_POLYGON",
+                        "nextPageStartIndex": 25,
+                            "nextPageNumber": 2,
+                                "nextPageGroup": "EXPEDIA_IN_POLYGON"
+            }
+        },
+        "sortResults": {
+            "options": [
+                {
+                    "label": "Featured",
+                    "itemMeta": "popular",
+                    "choices": [
+                        {
+                            "label": "Featured",
+                            "value": "BEST_SELLER",
+                            "selected": false
+                        }
+                    ],
+                    "enhancedChoices": [
+
+                    ]
+                },
+                {
+                    "label": "Star rating",
+                    "itemMeta": "star",
+                    "selectedChoiceLabel": "Stars (high to low)",
+                    "choices": [
+                        {
+                            "label": "Stars (high to low)",
+                            "value": "STAR_RATING_HIGHEST_FIRST",
+                            "selected": true
+                        },
+                        {
+                            "label": "Stars (low to high)",
+                            "value": "STAR_RATING_LOWEST_FIRST",
+                            "selected": false
+                        }
+                    ],
+                    "enhancedChoices": [
+
+                    ]
+                },
+                {
+                    "label": "Distance",
+                    "itemMeta": "distance",
+                    "choices": [
+                        {
+                            "label": "Distance",
+                            "value": "DISTANCE_FROM_LANDMARK",
+                            "selected": false
+                        }
+                    ],
+                    "enhancedChoices": [
+                        {
+                            "label": "Landmarks",
+                            "itemMeta": "landmarks",
+                            "choices": [
+                                {
+                                    "label": "Brier Creek Commons",
+                                    "id": 10805778
+                                },
+                                {
+                                    "label": "Cameron Indoor Stadium",
+                                    "id": 10450466
+                                },
+                                {
+                                    "label": "Carolina Theater",
+                                    "id": 1646795
+                                },
+                                {
+                                    "label": "Dean Smith Center",
+                                    "id": 1787899
+                                },
+                                {
+                                    "label": "Duke Regional Hospital",
+                                    "id": 10882250
+                                },
+                                {
+                                    "label": "Duke University",
+                                    "id": 1644437
+                                },
+                                {
+                                    "label": "Duke University Hospital",
+                                    "id": 10882249
+                                },
+                                {
+                                    "label": "Durham",
+                                    "id": 1436390
+                                },
+                                {
+                                    "label": "Durham Bulls Athletic Park",
+                                    "id": 1646797
+                                },
+                                {
+                                    "label": "Durham Convention Center",
+                                    "id": 10529067
+                                },
+                                {
+                                    "label": "Durham Performing Arts Center",
+                                    "id": 1787900
+                                },
+                                {
+                                    "label": "Durham VA Medical Center",
+                                    "id": 1719019
+                                },
+                                {
+                                    "label": "Franklin Street",
+                                    "id": 1810347
+                                },
+                                {
+                                    "label": "Kenan Stadium",
+                                    "id": 1667772
+                                },
+                                {
+                                    "label": "North Carolina Central University",
+                                    "id": 1646798
+                                },
+                                {
+                                    "label": "North Carolina Museum of Life and Science",
+                                    "id": 1646796
+                                },
+                                {
+                                    "label": "Research Triangle Park",
+                                    "id": 1692319
+                                },
+                                {
+                                    "label": "Streets at Southpoint Mall",
+                                    "id": 1761454
+                                },
+                                {
+                                    "label": "University of North Carolina",
+                                    "id": 1644534
+                                },
+                                {
+                                    "label": "Wallace Wade Stadium",
+                                    "id": 10450427
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Stations",
+                            "itemMeta": "stations",
+                            "choices": [
+                                {
+                                    "label": "Durham Station",
+                                    "id": 1734580
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Guest rating",
+                    "itemMeta": "rating",
+                    "choices": [
+                        {
+                            "label": "Guest rating",
+                            "value": "GUEST_RATING",
+                            "selected": false
+                        }
+                    ],
+                    "enhancedChoices": [
+
+                    ]
+                },
+                {
+                    "label": "Price",
+                    "itemMeta": "price",
+                    "choices": [
+                        {
+                            "label": "Price (high to low)",
+                            "value": "PRICE_HIGHEST_FIRST",
+                            "selected": false
+                        },
+                        {
+                            "label": "Price (low to high)",
+                            "value": "PRICE",
+                            "selected": false
+                        }
+                    ],
+                    "enhancedChoices": [
+
+                    ]
+                }
+            ]
+        },
+        "filters": {
+            "applied": false,
+                "name": {
+                "item": {
+                    "value": ""
+                },
+                "autosuggest": {
+                    "additionalUrlParams": {
+                        "resolved-location": "GEO_LOCATION:613 W Chapel Hill St, Durham, NC 27701, USA|35.9965705871582|-78.91143035888672:GEOCODE:UNKNOWN",
+                            "q-destination": "613 W Chapel Hill St, Durham, NC 27701, USA"
+                    }
+                }
+            },
+            "starRating": {
+                "applied": false,
+                    "items": [
+                        {
+                            "value": 5,
+                            "disabled": true
+                        },
+                        {
+                            "value": 4
+                        },
+                        {
+                            "value": 3
+                        },
+                        {
+                            "value": 2
+                        },
+                        {
+                            "value": 1,
+                            "disabled": true
+                        }
+                    ]
+            },
+            "guestRating": {
+                "range": {
+                    "min": {
+                        "defaultValue": 0
+                    },
+                    "max": {
+                        "defaultValue": 5
+                    }
+                }
+            },
+            "landmarks": {
+                "selectedOrder": [
+
+                ],
+                    "items": [
+                        {
+                            "label": "Durham",
+                            "value": "1436390"
+                        },
+                        {
+                            "label": "Duke University",
+                            "value": "1644437"
+                        },
+                        {
+                            "label": "University of North Carolina",
+                            "value": "1644534"
+                        },
+                        {
+                            "label": "Duke University Hospital",
+                            "value": "10882249"
+                        },
+                        {
+                            "label": "Streets at Southpoint Mall",
+                            "value": "1761454"
+                        },
+                        {
+                            "label": "Brier Creek Commons",
+                            "value": "10805778"
+                        },
+                        {
+                            "label": "Durham Performing Arts Center",
+                            "value": "1787900"
+                        },
+                        {
+                            "label": "Research Triangle Park",
+                            "value": "1692319"
+                        },
+                        {
+                            "label": "Dean Smith Center",
+                            "value": "1787899"
+                        },
+                        {
+                            "label": "Cameron Indoor Stadium",
+                            "value": "10450466"
+                        },
+                        {
+                            "label": "North Carolina Central University",
+                            "value": "1646798"
+                        },
+                        {
+                            "label": "Carolina Theater",
+                            "value": "1646795"
+                        },
+                        {
+                            "label": "Franklin Street",
+                            "value": "1810347"
+                        },
+                        {
+                            "label": "Durham Convention Center",
+                            "value": "10529067"
+                        },
+                        {
+                            "label": "Duke Regional Hospital",
+                            "value": "10882250"
+                        },
+                        {
+                            "label": "Durham Bulls Athletic Park",
+                            "value": "1646797"
+                        },
+                        {
+                            "label": "Wallace Wade Stadium",
+                            "value": "10450427"
+                        },
+                        {
+                            "label": "Durham VA Medical Center",
+                            "value": "1719019"
+                        },
+                        {
+                            "label": "North Carolina Museum of Life and Science",
+                            "value": "1646796"
+                        },
+                        {
+                            "label": "Kenan Stadium",
+                            "value": "1667772"
+                        }
+                    ],
+                        "distance": [
+
+                        ]
+            },
+            "neighbourhood": {
+                "applied": false,
+                    "items": [
+                        {
+                            "label": "Downtown Durham",
+                            "value": 12546916
+                        },
+                        {
+                            "label": "North Garrett Road",
+                            "value": 12543817
+                        },
+                        {
+                            "label": "Croasdaile Farm Master",
+                            "value": 12538935
+                        }
+                    ]
+            },
+            "accommodationType": {
+                "applied": false,
+                    "items": [
+                        {
+                            "label": "Apart-hotels",
+                            "value": "20"
+                        },
+                        {
+                            "label": "Apartments",
+                            "value": "15"
+                        },
+                        {
+                            "label": "B&Bs",
+                            "value": "5"
+                        },
+                        {
+                            "label": "Guest houses",
+                            "value": "30"
+                        },
+                        {
+                            "label": "Hotels",
+                            "value": "1"
+                        },
+                        {
+                            "label": "Motels",
+                            "value": "7"
+                        },
+                        {
+                            "label": "Vacation homes",
+                            "value": "4"
+                        }
+                    ]
+            },
+            "facilities": {
+                "applied": false,
+                    "items": [
+                        {
+                            "label": "24-hour front desk",
+                            "value": "2063"
+                        },
+                        {
+                            "label": "Airport transfers",
+                            "value": "513"
+                        },
+                        {
+                            "label": "Bar",
+                            "value": "515"
+                        },
+                        {
+                            "label": "Bathtub in room",
+                            "value": "517"
+                        },
+                        {
+                            "label": "Breakfast included",
+                            "value": "2048"
+                        },
+                        {
+                            "label": "Business facilities",
+                            "value": "519"
+                        },
+                        {
+                            "label": "Childcare",
+                            "value": "521"
+                        },
+                        {
+                            "label": "Connecting rooms available",
+                            "value": "523"
+                        },
+                        {
+                            "label": "Cribs available",
+                            "value": "525"
+                        },
+                        {
+                            "label": "Electric vehicle charging point",
+                            "value": "1073743315"
+                        },
+                        {
+                            "label": "Gym",
+                            "value": "2"
+                        },
+                        {
+                            "label": "Internet Access",
+                            "value": "8"
+                        },
+                        {
+                            "label": "Kitchen",
+                            "value": "32"
+                        },
+                        {
+                            "label": "Meeting Facilities",
+                            "value": "1"
+                        },
+                        {
+                            "label": "Non-smoking",
+                            "value": "529"
+                        },
+                        {
+                            "label": "Parking available",
+                            "value": "16384"
+                        },
+                        {
+                            "label": "Parking included",
+                            "value": "134234112"
+                        },
+                        {
+                            "label": "Pet Friendly",
+                            "value": "64"
+                        },
+                        {
+                            "label": "Pool",
+                            "value": "128"
+                        },
+                        {
+                            "label": "Restaurant",
+                            "value": "256"
+                        },
+                        {
+                            "label": "Smoking areas",
+                            "value": "537"
+                        },
+                        {
+                            "label": "Spa",
+                            "value": "539"
+                        },
+                        {
+                            "label": "WiFi included",
+                            "value": "527"
+                        }
+                    ]
+            },
+            "accessibility": {
+                "applied": false,
+                    "items": [
+                        {
+                            "label": "Accessibility equipment for the deaf",
+                            "value": "2097152"
+                        },
+                        {
+                            "label": "Accessible bathroom",
+                            "value": "131072"
+                        },
+                        {
+                            "label": "Accessible parking",
+                            "value": "524288"
+                        },
+                        {
+                            "label": "Accessible path of travel",
+                            "value": "65536"
+                        },
+                        {
+                            "label": "Braille or raised signage",
+                            "value": "4194304"
+                        },
+                        {
+                            "label": "In-room accessibility",
+                            "value": "1048576"
+                        },
+                        {
+                            "label": "Roll-in shower",
+                            "value": "262144"
+                        },
+                        {
+                            "label": "Wheelchair accessible rooms",
+                            "value": "541"
+                        }
+                    ]
+            },
+            "themesAndTypes": {
+                "applied": false,
+                    "items": [
+                        {
+                            "label": "Boutique",
+                            "value": "4"
+                        },
+                        {
+                            "label": "Business",
+                            "value": "14"
+                        },
+                        {
+                            "label": "Family-friendly",
+                            "value": "25"
+                        },
+                        {
+                            "label": "Golf",
+                            "value": "26"
+                        },
+                        {
+                            "label": "LGBTQ Welcoming",
+                            "value": "21"
+                        },
+                        {
+                            "label": "Luxury",
+                            "value": "15"
+                        },
+                        {
+                            "label": "Romantic",
+                            "value": "1"
+                        }
+                    ]
+            },
+            "price": {
+                "label": "Nightly Price",
+                    "range": {
+                    "min": {
+                        "defaultValue": 0
+                    },
+                    "max": {
+                        "defaultValue": 500
+                    },
+                    "increments": 5
+                },
+                "multiplier": 1
+            },
+            "paymentPreference": {
+                "items": [
+                    {
+                        "label": "Pay with Hotels.com gift card",
+                        "value": "gc"
+                    }
+                ]
+            },
+            "welcomeRewards": {
+                "label": "Hotels.com® Rewards",
+                    "items": [
+                        {
+                            "label": "Collect stamps",
+                            "value": "collect"
+                        },
+                        {
+                            "label": "Redeem reward* nights",
+                            "value": "redeem"
+                        }
+                    ]
+            }
+        },
+        "pointOfSale": {
+            "currency": {
+                "code": "USD",
+                    "symbol": "$",
+                        "separators": ",.",
+                            "format": "${0}"
+            }
+        }
+    }
+}
