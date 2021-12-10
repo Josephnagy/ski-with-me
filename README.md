@@ -1,8 +1,9 @@
-# Final Project
-This repository contains all of my code for my COMPSCI 290 Final Project. 
+# Current Status
+This application is currently under maintence. 
 
 # Project Description 
-My project is a web app that allows you to plan ski and snowboarding trips. Originally, I was planning on having many more features than I am about to explain; however, things did not work out as planned so I was only able to implement some features. So, in the app’s current state, users are able to create ski trips with a name and start+end date. Users can then add a mountain and hotel to the trip and plan their trip through this way. This allows users to see all of their ski trip details in one place. 
+My project is a web app that allows you to plan ski and snowboarding trips with friends. You can plan a trip with a date, mountain, hotel and flight information and send invites to your friends via gmail. 
+
 
 # Data 
 - For mountain related data I got all of the data I needed from OnTheSnow.com, specifically through [this](https://skiapp.onthesnow.com/app/widgets/resortlist?region=us&regionids=429&language=en&pagetype=profile&direction=1&order=resort&limit=1000&countrycode=USA&minvalue=-1&open=anystatus) API. This was not something they publically advertise, but I was able to find this by looking through their webpages using the Chrome network tab. 
